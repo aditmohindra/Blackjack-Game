@@ -4,4 +4,4 @@
 
 Made for Intro Python class
 
-![screen-capture](https://user-images.githubusercontent.com/92764174/139989925-d1766e43-7a6d-47b3-a6d2-0bcf77435212.gif)
+https://user-images.githubusercontent.com/92764174/139990791-f1ac4041-71f1-497a-9b45-035556384bdd.mp4
