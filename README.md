@@ -2,4 +2,4 @@
 
 ## Simple command line Blackjack game
 
-### Made for Intro Python class
+Made for Intro Python class
